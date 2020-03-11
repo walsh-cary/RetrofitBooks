@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitBooks</string>
+    <string-array name="print_types">
+        <item>Books</item>
+        <item>Magazine</item>
+        <item>All</item>
+    </string-array>
+</resources>
